@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **NextJS.**
+- 🌱 Currently I'm working as **Frontend Developer** for Eastplayers company
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://yuumi.vercel.app/)**
 
